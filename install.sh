@@ -1,4 +1,4 @@
 #!/bin/bash
 
-brew install `cat packages.list`
-brew cask install `cat casks.list`
+brew install `cat ~/Documents/Dev/Brew/packages.list`
+brew cask install `cat ~/Documents/Dev/Brew/casks.list`
