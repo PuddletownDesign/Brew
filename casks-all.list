@@ -3,11 +3,12 @@ appcleaner
 arrsync
 atom
 docker
-flux
 grandperspective
-iterm2
+iterm2-nightly
 kdiff3
 launchcontrol
+mongodb-compass-beta
+pgadmin4
 qlcolorcode
 qlmarkdown
 qlprettypatch
@@ -19,6 +20,7 @@ quicksilver
 scout
 slack
 the-unarchiver
+transmission
 vagrant
 vienna
 virtualbox
