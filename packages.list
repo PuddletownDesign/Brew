@@ -1,3 +1,4 @@
+aircrack-ng
 archey
 atk
 autoconf
@@ -11,6 +12,7 @@ ffmpeg
 fontconfig
 fortune
 freetype
+gcc
 gdbm
 gdk-pixbuf
 gettext
@@ -19,11 +21,14 @@ glib
 gmp
 gnutls
 gobject-introspection
+graphite2
 gtk+
 harfbuzz
+hashcat
 hicolor-icon-theme
 highlight
 icu4c
+isl
 jpeg
 lame
 libffi
@@ -31,6 +36,7 @@ libgcrypt
 libgpg-error
 libidn
 libksba
+libmpc
 libpng
 libtasn1
 libtiff
@@ -42,6 +48,7 @@ links
 lua
 lynx
 mongodb
+mpfr
 mysql
 nettle
 nginx
@@ -56,8 +63,10 @@ pixman
 pkg-config
 postgresql
 python
+r
 readline
 shared-mime-info
+speedtest-cli
 speedtest_cli
 sqlite
 thefuck
@@ -68,6 +77,7 @@ unixodbc
 wget
 x264
 xvid
+xz
 yarn
 youtube-dl
 zsh
