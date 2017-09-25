@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ~/Documents/Dev/Brew
+cd ~/Dev/Config/Brew
 brew list > packages.list
 brew cask list > casks-all.list
 git add .

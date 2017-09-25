@@ -1,5 +1,5 @@
 #!/bin/bash
 
 brew tap buo/cask-upgrade
-brew install `cat ~/Documents/Dev/Brew/packages.list`
-brew cask install `cat ~/Documents/Dev/Brew/casks.list`
+brew install `cat ~/Dev/Config/Brew/packages.list`
+brew cask install `cat ~/Dev/Config/Brew/casks.list`

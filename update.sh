@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd ~/Documents/Dev/Brew
+cd ~/Dev/Config/Brew
 git pull origin mac

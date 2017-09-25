@@ -8,6 +8,7 @@ docker
 dosbox
 dropbox
 firefox
+google-backup-and-sync
 grandperspective
 handbrake
 iterm2-nightly
@@ -15,12 +16,14 @@ kdiff3
 launchcontrol
 mini-vmac
 mongodb-compass-beta
+patchwork
 qlcolorcode
 qlimagesize
 qlmarkdown
 qlprettypatch
 qlstephen
 qlvideo
+qtox
 quicklook-csv
 quicklook-json
 quicklookase
@@ -30,9 +33,11 @@ sequel-pro
 skype
 slack
 sourcetree
+steam
 sublime-text
 suspicious-package
 the-unarchiver
+transmission
 vagrant
 vienna
 virtualbox
