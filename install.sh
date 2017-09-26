@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git remote add upstream https://github.com/PuddletownDesign/Git
+git remote add upstream https://github.com/PuddletownDesign/Brew
 
 brew tap buo/cask-upgrade
 brew install `cat ~/Dev/Config/Brew/packages.list`
