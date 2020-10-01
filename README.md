@@ -32,6 +32,8 @@ cd Brew
 
 If you would like to **install everything**:
 
+ [Here is a list of all of the free apps I use](https://raw.githubusercontent.com/PuddletownDesign/Brew/mac/all-apps.list)
+
 ```bash
 ./install-everything.sh
 ```
@@ -82,16 +84,18 @@ webpquicklook             zenmap
 
 ### Subscribe to my changes
 
-If you would like to pull updates from my repo with new apps that I'm using. You can add my repository that you forked from as upstream
+If you would like to pull updates from my repo with new apps that I'm using. You can add my repository that you forked from as upstream. This will subscribe to the "Homebrew Cask Updater" as well.
 
 ```bash
-git remote add upstream https://github.com/PuddletownDesign/Brew
+./install.sh
 ```
 
 ### To pull my new apps into your repositiory
 
 ```bash
-git pull https://github.com/PuddletownDesign/Brew
+git fetch upstream mac
+
+git merge upstream/mac
 ```
 
 This will merge my changes in with yours.

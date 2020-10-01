@@ -1,6 +1,6 @@
 #!/bin/bash
 
 cd ~/Config/Brew
-git fetch upstream
-git checkout mac
-git merge upstream/mac --no-edit
+git add .
+git commit -m "`date +\"%Y-%m-%d\"` back up on github"
+git pull upstream/mac --no-edit
