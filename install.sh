@@ -1,5 +1,35 @@
 #!/bin/bash
 
-git remote add upstream https://github.com/PuddletownDesign/Brew
-
-brew tap buo/cask-upgrade
+# git remote add upstream https://github.com/PuddletownDesign/Brew
+#
+# brew tap buo/cask-upgrade
+echo '#################################################################'
+echo '### Upstream repo & applications upgrade tap have been added! ###'
+echo '#################################################################'
+echo ''
+echo 'Now you can either start installing binaries & formulas by running'
+echo ''
+echo 'brew search [binary or app name]'
+echo 'brew install [binary name]'
+echo 'brew cask install [application name]'
+echo ''
+echo 'or you can choose from the lists included in this package'
+echo ''
+echo './install-binaries.sh - to install my favorite binaries'
+echo ''
+echo 'there are also a couple lists of applications'
+echo ''
+echo './install-dev-apps.sh - to install just development apps'
+echo './install-essential-apps.sh - to install just the essential everyday apps'
+echo './install-all-apps.sh - install all of my favorite apps'
+echo ''
+echo 'Lastly, to install everything, all apps and binaries run:'
+echo ''
+echo './install-everything.sh'
+echo ''
+echo 'once you have everything the way you like it, go ahead and back that ass up'
+echo 'onto that fork'
+echo ''
+echo './backup.sh'
+echo ''
+echo 'now get your mac on that hoochie brew!'

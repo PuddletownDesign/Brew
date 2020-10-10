@@ -9,6 +9,7 @@ ccat
 check
 coreutils
 cowsay
+curl
 dav1d
 direnv
 docbook
@@ -123,6 +124,7 @@ popt
 profanity
 pygments
 python@3.8
+python@3.9
 r
 rav1e
 readline

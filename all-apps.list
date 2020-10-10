@@ -8,6 +8,7 @@ balenaetcher
 blender
 brave-browser
 db-browser-for-sqlite
+deeper
 dosbox
 dropbox
 electrum
@@ -15,7 +16,6 @@ firefox
 fontbase
 google-backup-and-sync
 google-chrome
-google-earth-pro
 gpg-suite
 grandperspective
 handbrake
@@ -39,11 +39,11 @@ qlmarkdown
 qlprettypatch
 qlstephen
 qlvideo
-qtox
 quicklook-csv
 quicklook-json
 quicklookase
 quicksilver
+reaper
 sequel-pro
 signal
 skype
@@ -51,7 +51,6 @@ slack
 steam
 suspicious-package
 symboliclinker
-syncthing
 the-unarchiver
 tor-browser
 unison
